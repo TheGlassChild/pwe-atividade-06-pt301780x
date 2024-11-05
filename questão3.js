@@ -1,5 +1,5 @@
-let nome = "Lara Julia";
-let nota1 = 9;
+let nome = "Karini Lima";
+let nota1 = 10;
 let nota2 = 8;
 
 let multNota1 = nota1 * 0.6;
